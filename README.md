@@ -1,2 +1,7 @@
-# 2.5D-Turn-Based-Unity
-an amature project of attempting a Turn-based 2.5D game 
+# Built With Unity 6000.3.10f1
+
+| Resource | Source |
+| :--- | :--- |
+| **Logic** | [i-Jiro](https://github.com/i-Jiro) |
+| **Environments** | [Free-Game-Assets](https://free-game-assets.itch.io/) |
+| **Characters** | [Noiracide](https://noiracide.itch.io/) |
