@@ -1,7 +1,11 @@
-# Built With Unity 6000.3.10f1
+Made with **Unity 6000.3.10f1**
 
-| Resource | Source |
-| :--- | :--- |
-| **Logic** | [i-Jiro](https://github.com/i-Jiro) |
-| **Environments** | [Free-Game-Assets](https://free-game-assets.itch.io/) |
-| **Characters** | [Noiracide](https://noiracide.itch.io/) |
+---
+
+### Engine & Frameworks
+- [i-Jiro Turn-based Engine](https://github.com/i-Jiro/Unity3D-Turn_Based_RPG)
+
+### Art & Assets
+- [Free Sky Backgrounds](https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set)
+- [Characters' Sprites by noiracide](https://noiracide.itch.io/df-demo)
+- [Modular Village Pack](https://fertile-soil-productions.itch.io/modular-village-pack)
