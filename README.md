@@ -6,4 +6,5 @@
 ### Art & Assets
 - [Free Sky Backgrounds](https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set)
 - [Characters' Sprites by noiracide](https://noiracide.itch.io/df-demo)
-- [Modular Village Pack](https://fertile-soil-productions.itch.io/modular-village-pack)
+- [Modular Village Pack](https://fertile-soil-productions.itch.io/modular-village-pack) <- Might not needed
+- [keijiro's Standard Tripanar](https://github.com/keijiro/StandardTriplanar) <- Might not needed
