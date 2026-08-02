@@ -1,10 +1,9 @@
 ## Made with **Unity 6000.3.10f1**
 
-| Field | Information |
+| **Team Name** | [Upload Lab] |
 | :--- | :--- |
-| **Team Name** | [Insert Team Name] |
-| **Name** | [Insert Your Name] |
-| **Student ID** | [Insert Student ID] |
+| **Name** | [Tham Hoai An]|
+| **MSSV** | [2311558591] |
 
 ### Engine & Frameworks
 - [i-Jiro Turn-based Engine](https://github.com/i-Jiro/Unity3D-Turn_Based_RPG)
